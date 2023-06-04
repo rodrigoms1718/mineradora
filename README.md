@@ -1,0 +1,2 @@
+# mineradora
+# projeto em Quarkus
